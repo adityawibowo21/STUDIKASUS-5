@@ -52,7 +52,7 @@ void studikasus::proses()
 
 void studikasus::output()
 {
-    cout << "================================" << endl;
+    cout << "\n================================" << endl;
     cout << "|         KRS MAHASISWA        |"<< endl;
     cout << "================================" << endl;
     cout << "Nama               : " << nama << endl;
