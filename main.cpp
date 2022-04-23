@@ -78,4 +78,4 @@ int main()
     x.input(); 
     x.proses();
     x.output();
-}
+} 
